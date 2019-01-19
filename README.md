@@ -1,2 +1,2 @@
-# Personal_Projects
-it's my own persona projects in different programming languages 
+# Tic_Tac_Toe
+This code is creating Tic_Tac_Toe game using python language  
